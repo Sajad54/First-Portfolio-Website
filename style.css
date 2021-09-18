@@ -1,0 +1,39 @@
+*
+{
+  margin: 0;
+ 
+}
+header{
+  background-color: #161b33;
+  color:white;
+  text-align: center;
+  padding: 10px;
+  font-size: 18px;
+}
+.gen-font{
+   font-family: Arial;
+   
+}
+main, p{
+  background-color: #eae0cc;
+  padding: 10px;
+  text-align: center;
+  
+}
+ul, ol{
+  text-align: left;
+  margin: 0px;
+  padding-left: 220px;
+}
+hr{
+  margin: 10px;
+}
+footer  {
+  background-color: #eae0cc;
+  padding: 10px;
+  text-align: center;
+  
+}
+a:hover{
+  color:darkblue
+}
