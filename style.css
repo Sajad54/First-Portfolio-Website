@@ -19,9 +19,10 @@ header{
 }
 /*Styling for my main  */
 main{
-  background-color: #eae0cc;
+  background: #eae0cc;
   padding: 10px;
   text-align: center;
+  
   
 }
 /*Styling for my unorderd and ordered lists */
@@ -33,11 +34,13 @@ ul, ol{
 }
 /* Styling for my page breaks */
 hr{
+  
   margin: 10px;
 }
 /* Styling for my footer */
 footer  {
-  background-color: #eae0cc;
+  
+  background: #eae0cc;
   padding: 10px;
   text-align: center;
   
@@ -45,4 +48,7 @@ footer  {
 /* Styling for when you hover over any links on my webpage */
 a:hover{
   color:darkblue
+}
+image{
+  height: 5px;
 }
