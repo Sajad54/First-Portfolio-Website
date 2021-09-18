@@ -1,8 +1,10 @@
+/* This removes the margins at the sides and top and bottom of the website*/
 *
 {
   margin: 0;
  
 }
+/*Styling for my header  */
 header{
   background-color: #161b33;
   color:white;
@@ -10,30 +12,36 @@ header{
   padding: 10px;
   font-size: 18px;
 }
+/*A class for the fonts I want my website to have */
 .gen-font{
    font-family: Arial;
    
 }
-main, p{
+/*Styling for my main  */
+main{
   background-color: #eae0cc;
   padding: 10px;
   text-align: center;
   
 }
+/*Styling for my unorderd and ordered lists */
 ul, ol{
   text-align: left;
   margin: 0px;
   padding-left: 220px;
 }
+/* Styling for my page breaks */
 hr{
   margin: 10px;
 }
+/* Styling for my footer */
 footer  {
   background-color: #eae0cc;
   padding: 10px;
   text-align: center;
   
 }
+/* Styling for when you hover over any links on my webpage */
 a:hover{
   color:darkblue
 }
