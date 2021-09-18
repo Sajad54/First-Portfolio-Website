@@ -26,7 +26,7 @@ main{
 }
 /*Styling for my unorderd and ordered lists */
 ul, ol{
-  text-align: center;
+  text-align: left;
   margin-top: 10px;
   margin-left: 38%; 
 }
