@@ -27,8 +27,8 @@ main{
 /*Styling for my unorderd and ordered lists */
 ul, ol{
   text-align: left;
-  margin: 0px;
-  padding-left: 220px;
+  margin-top: 10px;
+  padding-left: 750px;
 }
 /* Styling for my page breaks */
 hr{
